@@ -153,7 +153,7 @@ export default function App() {
                   ))}
                 </div>
 
-                <div className="letterFooter">— always yours ❤️</div>
+                <div className="letterFooter">— Your Friend</div>
               </div>
 
               <div className="tip">
@@ -191,7 +191,7 @@ export default function App() {
               <div className="yesTitle">{content.yesTitle}</div>
               <p className="yesMsg">{content.yesMsg}</p>
               <div className="ring" aria-hidden="true">
-                💍✨☕️
+                ✨☕️
               </div>
 
               <div className="finalFun">
