@@ -153,7 +153,7 @@ export default function App() {
                   ))}
                 </div>
 
-                <div className="letterFooter">— Your Friend</div>
+                <div className="letterFooter">— Your Friend 😄</div>
               </div>
 
               <div className="tip">
